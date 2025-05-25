@@ -3,7 +3,7 @@
   <h2 align="center">
     ── 𝗕𝗲𝘀𝘁𝗶𝗲 𝗠𝘂𝘀𝗶𝗰 ♪ 
 <p align="center">
-  <img src="(https://files.catbox.moe/c4zzzc.jpg)">
+  <img src="https://files.catbox.moe/c4zzzc.jpg">
 </p>
 
 <h3 align="center">
