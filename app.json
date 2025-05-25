@@ -1,7 +1,7 @@
 {
-    "name": "Rishu",
+    "name": "BESTIE",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/241c78c8477e062a03046.jpg",
+    "logo": "https://files.catbox.moe/c4zzzc.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "14050586",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "42a60d9c657b106370c79bb0a8ac560c",
+        "value": ""c,
         "required": true
       },
       "BOT_TOKEN": {
