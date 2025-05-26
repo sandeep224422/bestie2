@@ -397,8 +397,8 @@ class Helper(object):
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ───────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [ ʀɪsʜυ ](https://t.me/lll_SANATANI_lll)
-❍ ᴄσηᴛᴧᴄᴛ - [Ꝛᴧᴅʜє Sᴧηᴧᴛᴧηɪ](https://t.me/ll_RADHE7_ll)
+❍ ᴄσηᴛᴧᴄᴛ - [ Sɪʟᴇɴᴛʜʀᴀx ](https://t.me/Silenthrex)
+❍ ᴄσηᴛᴧᴄᴛ - [Sɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax)
 ───────────────────────**
 '''
     HELP_ALLBOT = '''
@@ -445,9 +445,9 @@ class Helper(object):
 ● ᴧɪ ɪηᴛєɢʀᴧᴛɪση
 ───────────────────────
 ❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [Ꝛɪsʜυ sυᴘᴘσʀᴛ](https://t.me/ur_support07)
-❖ ʀєᴧʟ σᴡηєʀ ➥ [Ꝛɪsʜυ sᴧηᴧᴛᴧηɪ](https://t.me/Rishu1286)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/lll_SANATANI_lll)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [Sɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrex)
+❖ ʀєᴧʟ σᴡηєʀ ➥ [Sɪʟᴇɴᴛʜʀᴀx](https://t.me/SILENTHRAX)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/BESTIE_UNITE_CLUB)
 ───────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
     ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!
