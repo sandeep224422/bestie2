@@ -7,9 +7,9 @@ import httpx
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """
-**⌾ ᴡᴇʟᴄᴏᴍᴇ ғᴏʀ ʀɪsʜυ ʀᴇᴘᴏs ⌾
+**⌾ ᴡᴇʟᴄᴏᴍᴇ ғᴏʀ sɪʟᴇɴᴛʜʀᴀx ʀᴇᴘᴏ
  
-● ɪғ ʏᴏᴜ ᴡᴀɴᴛ ˹ ʀɪsʜᴜ ꭙ ᴍᴜsɪᴄ ♡゙゙
+● ɪғ ʏᴏᴜ ᴡᴀɴᴛ ʙᴇsᴛɪᴇ ꭙ ᴍᴜsɪᴄ ♡゙゙
 
 ● ʙᴏᴛ ʀᴇᴘᴏ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʀᴇᴘᴏ ● **
 """
@@ -24,21 +24,21 @@ async def start(_, msg):
           InlineKeyboardButton("✙ ᴀᴅᴅ ᴍᴇ ✙", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("• ʜᴇʟᴘ •", url="https://t.me/rishu1286"),
-          InlineKeyboardButton("• ᴏᴡɴᴇʀ •", url="https://t.me/rishu1286"),
+          InlineKeyboardButton("• ʜᴇʟᴘ •", url="https://t.me/Silenthrax"),
+          InlineKeyboardButton("• ᴏᴡɴᴇʀ •", url="https://t.me/Silenthrax"),
           ],
                [
-                InlineKeyboardButton("• ɴᴇᴛᴡᴏʀᴋ •", url=f"https://t.me/ur_rishu_143"),
+                InlineKeyboardButton("• ɴᴇᴛᴡᴏʀᴋ •", url=f"https://t.me/Silenthrex"),
 ],
 [
-InlineKeyboardButton("• ʀᴇᴘᴏ •", url=f"https://github.com/RishuBot/RishuManagement"),
+InlineKeyboardButton("• ʀᴇᴘᴏ •", url=f"https://github.com"),
 
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://envs.sh/oK4.jpg",
+        photo="https://files.catbox.moe/qu0hhu.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
