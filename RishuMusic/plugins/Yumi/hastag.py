@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup as  BSP
 from RishuMusic import app as SACHIN
 from pyrogram import filters
-url = "https://all-hashtag.com/library/contents/ajax_generator.php"
+url = "https://all-hashtag.com"
 
 @SACHIN.on_message(filters.command("hastag"))
 async def hastag(bot, message):
