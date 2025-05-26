@@ -11,7 +11,7 @@ start_txt = """
 ┌┬─────────────────⦿
 │├─────────────────╮
 │├ ᴛɢ ɴᴀᴍᴇ - Sɪʟᴇɴᴛʜʀᴀx
-│├ ʀᴇᴀʟ ɴᴀᴍᴇ - Dᴇᴇᴘᴀᴋ Kᴜᴍᴀʀ
+│├ ʀᴇᴀʟ ɴᴀᴍᴇ - Sɪʟᴇɴᴛʜʀᴀx
 │├─────────────────╯
 ├┼─────────────────⦿
 ├┤~ @ABOUT_SILENTHRAX
@@ -49,7 +49,7 @@ InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/RJ
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://envs.sh/oKU.jpg",
+        photo="https://files.catbox.moe/qu0hhu.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
