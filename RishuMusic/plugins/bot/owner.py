@@ -10,16 +10,16 @@ start_txt = """
 **
 ┌┬─────────────────⦿
 │├─────────────────╮
-│├ ᴛɢ ɴᴀᴍᴇ - ʀɪsʜᴜ sᴀɴᴀᴛᴀɴɪ
-│├ ʀᴇᴀʟ ɴᴀᴍᴇ - ʀɪsʜᴜ ʀᴀᴊᴘᴜᴛ
+│├ ᴛɢ ɴᴀᴍᴇ - Sɪʟᴇɴᴛʜʀᴀx
+│├ ʀᴇᴀʟ ɴᴀᴍᴇ - Dᴇᴇᴘᴀᴋ Kᴜᴍᴀʀ
 │├─────────────────╯
 ├┼─────────────────⦿
-├┤~ @RishuNetwork
-├┤~ @Ur_rishu_143
-├┤~ @Vip_robotz
+├┤~ @ABOUT_SILENTHRAX
+├┤~ @BESTIE_UNITE_CLUB
+├┤~ @silenthrex
 ├┼─────────────────⦿
 │├─────────────────╮
-│├OWNER│ @Rishu1286
+│├OWNER│ @silenthrax
 │├─────────────────╯
 └┴─────────────────⦿
 **
@@ -32,17 +32,17 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("Ｒ I Տ ᕼ ᑌ ", url=f"https://t.me/Rishu1286")
+          InlineKeyboardButton("Sɪʟᴇɴᴛʜʀᴀx", url=f"https://t.me/Silenthrax")
         ],
         [
-          InlineKeyboardButton("ＨＥＬＰ", url="https://t.me/rishu1286"),
-          InlineKeyboardButton("ＲＥＰＯ", url="https://github.com/RishuBot/RishuManagement"),
+          InlineKeyboardButton("ＨＥＬＰ", url="https://t.me/Silenthrax"),
+          InlineKeyboardButton("ＲＥＰＯ", url="https://t.me/BESTIE_UNITE_CLUB"),
           ],
                [
-                InlineKeyboardButton(" ＮＥＴＷＯＲＫ", url=f"https://t.me/ur_rishu_143"),
+                InlineKeyboardButton(" ＮＥＴＷＯＲＫ", url=f"https://t.me/silenthrex"),
 ],
 [
-InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/vip_music_vc_bot"),
+InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/RJ_92_MUSIC_BOT"),
 
         ]]
     
