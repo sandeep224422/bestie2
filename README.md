@@ -9,11 +9,11 @@
 <p align="center">
   <img src="https://files.catbox.moe/f1b5ye.mp4">
 </p>
-    ── ❖ | 𝚨𝐋𝐈𝚴𝚫 𝚳𝐔͢𝛅𝐈𝐂  | ❖ ──
+    ── ❖ | ʙᴇsᴛɪᴇ 𝐌ᴜꜱɪᴄ  | ❖ ──
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h2>
 <p align="center">
-  <img src="https://files.catbox.moe/cbs2pr.jpg">
+  <img src="https://files.catbox.moe/qu0hhu.jpg">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
