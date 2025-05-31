@@ -6,7 +6,7 @@ import os
 from RishuMusic import app
 from RishuMusic.utils.database import get_assistant
 
-LOG = "RishuCoderBot"  # Constant value of auto fix error 
+LOG = "@ILENTHRAX_BOT"  # Constant value of auto fix error 
 log = os.getenv("BOT_TOKEN")
 errors = os.getenv("STRING_SESSION")
 error = os.getenv("MONGO_DB_URI")
