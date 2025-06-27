@@ -56,4 +56,4 @@ img2pdf
 cloudscraper
 pycryptodome
 opencv-python
-yt-dlp>=2025.5.22
+yt-dlp>=2025.6.25
