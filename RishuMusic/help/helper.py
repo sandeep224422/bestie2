@@ -33,7 +33,7 @@ class Helper(object):
 ❍ /ask ➠ ǫυєʀɪєs ᴛʜє ᴧɪ ϻσᴅєʟ ᴛσ ɢєᴛ ᴧ ʀєsᴘσηsє ᴛσ ʏσυʀ ǫυєsᴛɪση
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -47,7 +47,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
     HELP_03 = '''```
@@ -58,7 +58,7 @@ class Helper(object):
 
 ❍ /tts : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -68,7 +68,7 @@ class Helper(object):
 ❍ /info : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ υsєʀ.
 ❍ /github <υsєʀηᴧϻє> : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ ɢɪᴛʜυʙ υsєʀ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -79,9 +79,9 @@ class Helper(object):
 
 ❍ /font [ᴛєxᴛ]**
 ```
-❖ єxᴧϻᴘʟє : /font Silenthrx```
+❖ єxᴧϻᴘʟє : /font zefron```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
     HELP_06 = '''```
@@ -89,7 +89,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /vctag ➠ ᴠσɪᴄє ᴄʜᴧᴛ ɪηᴠɪᴛє ᴛᴧɢ 
 ❍ /vcstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -128,7 +128,7 @@ class Helper(object):
 ❍ /image ➠ sєᴧʀᴄʜєs ғσʀ ᴧη ɪϻᴧɢє ʙᴧsєᴅ ση ᴧ ɢɪᴠєη ᴋєʏᴡσʀᴅ.
 ❍ /upscale ➠ ʀєᴘʟʏ ᴛσ ᴧη ɪϻᴧɢє ᴛσ υᴘsᴄᴧʟє ɪᴛ ᴧηᴅ ɪϻᴘʀσᴠє ɪᴛs ǫυᴧʟɪᴛʏ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -142,7 +142,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -152,7 +152,7 @@ class Helper(object):
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -177,7 +177,7 @@ class Helper(object):
 ❍ /boobs [ᴄʜєᴄᴋ ʏσυʀ ʙσσʙɪєs sɪᴢє]
 ❍ /dick [ᴄʜєᴄᴋ ʏσυʀ ᴅɪᴄᴋ sɪᴢє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -189,7 +189,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -230,7 +230,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
     HELP_15 = '''```
@@ -239,7 +239,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -256,7 +256,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ❍ /pinned ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ᴘɪηηєᴅ ϻєssᴧɢє ɪη ᴛʜє ɢʀσυᴘ
 ❍ /unpin ➠ υηᴘɪηs ᴛʜє ᴄυʀʀєηᴛʟʏ ᴘɪηηєᴅ ϻєssᴧɢє
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -293,7 +293,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -304,7 +304,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -321,7 +321,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -332,7 +332,7 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
     HELP_23 = '''```
@@ -340,7 +340,7 @@ class Helper(object):
 
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
     HELP_24 = '''```
@@ -348,7 +348,7 @@ class Helper(object):
 
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -364,7 +364,7 @@ class Helper(object):
 
 ❍ /stack ➠ sєᴧʀᴄʜєs ғσʀ ᴘʀσɢʀᴧϻϻɪηɢ-ʀєʟᴧᴛєᴅ ɪηғσʀϻᴧᴛɪση ση sᴛᴧᴄᴋ σᴠєʀғʟσᴡ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
 
 
@@ -375,7 +375,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) **
 '''
     HELP_PROMOTION = '''
 **───────────────────────
@@ -397,13 +397,13 @@ class Helper(object):
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ───────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [ Sɪʟᴇɴᴛʜʀᴀx ](https://t.me/Silenthrex)
-❍ ᴄσηᴛᴧᴄᴛ - [Sɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax)
+❍ ᴄσηᴛᴧᴄᴛ - [ 𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥 ](https://t.me/crush_hu_tera)
+❍ ᴄσηᴛᴧᴄᴛ - [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera)
 ───────────────────────**
 '''
     HELP_ALLBOT = '''
 **───────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera)˼ ʙσᴛ sᴛᴧᴛυs │
 ───────────────────────
     ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ───────────────────────
@@ -420,11 +420,11 @@ class Helper(object):
 ╰⊚ υᴘᴛɪϻє : 12ʜ:48ϻ:37s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ───────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/Silenthrex/97)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/crush_hu_tera/97)
 ───────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 17 May 2025 
 ───────────────────────
-❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) ˼
+❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera) ˼
 ───────────────────────**
 '''
     HELP_ABOUT = '''
@@ -444,10 +444,10 @@ class Helper(object):
 ● ᴧηɪϻє ʙσᴛ ғυηᴄᴛɪσηᴧʟɪᴛʏ
 ● ᴧɪ ɪηᴛєɢʀᴧᴛɪση
 ───────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [Sɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrex)
-❖ ʀєᴧʟ σᴡηєʀ ➥ [Sɪʟᴇɴᴛʜʀᴀx](https://t.me/SILENTHRAX)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/BESTIE_UNITE_CLUB)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera)
+❖ ʀєᴧʟ σᴡηєʀ ➥ [𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥](https://t.me/crush_hu_tera)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/crush_hu_tera)
 ───────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
     ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!

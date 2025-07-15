@@ -5,8 +5,8 @@ from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForb
 from RishuMusic import app
 
 # Channels to enforce join
-MUST_JOIN_1 = "BESTIE_UNITE_CLUB"
-MUST_JOIN_2 = "Silenthrax"
+MUST_JOIN_1 = "crush_hu_tera"
+MUST_JOIN_2 = "crush_hu_tera"
 
 # List of random images
 IMAGES = [
@@ -73,13 +73,13 @@ async def must_join_channels(app: Client, msg: Message):
             await app.get_chat_member(MUST_JOIN_1, msg.from_user.id)
         except UserNotParticipant:
             link1 = f"https://t.me/{MUST_JOIN_1}"
-            await send_join_message(msg, link1, "BESTIE_UNITE_CLUB")
+            await send_join_message(msg, link1, "crush_hu_tera")
 
         try:
             await app.get_chat_member(MUST_JOIN_2, msg.from_user.id)
         except UserNotParticipant:
             link2 = f"https://t.me/{MUST_JOIN_2}"
-            await send_join_message(msg, link2, "Silenthrax")
+            await send_join_message(msg, link2, "crush_hu_tera")
 
     except ChatAdminRequired:
         print("Please make me admin in the required channels!")

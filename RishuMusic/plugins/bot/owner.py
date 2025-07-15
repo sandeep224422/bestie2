@@ -10,16 +10,16 @@ start_txt = """
 **
 ┌┬─────────────────⦿
 │├─────────────────╮
-│├ ᴛɢ ɴᴀᴍᴇ - Sɪʟᴇɴᴛʜʀᴀx
-│├ ʀᴇᴀʟ ɴᴀᴍᴇ - Sɪʟᴇɴᴛʜʀᴀx
+│├ ᴛɢ ɴᴀᴍᴇ - 𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥
+│├ ʀᴇᴀʟ ɴᴀᴍᴇ - 𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥
 │├─────────────────╯
 ├┼─────────────────⦿
-├┤~ @ABOUT_SILENTHRAX
-├┤~ @BESTIE_UNITE_CLUB
-├┤~ @silenthrex
+├┤~ @ABOUT_crush_hu_tera
+├┤~ @crush_hu_tera
+├┤~ @crush_hu_tera
 ├┼─────────────────⦿
 │├─────────────────╮
-│├OWNER│ @silenthrax
+│├OWNER│ @crush_hu_tera
 │├─────────────────╯
 └┴─────────────────⦿
 **
@@ -32,14 +32,14 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("Sɪʟᴇɴᴛʜʀᴀx", url=f"https://t.me/Silenthrax")
+          InlineKeyboardButton("𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌🔥", url=f"https://t.me/crush_hu_tera")
         ],
         [
-          InlineKeyboardButton("ＨＥＬＰ", url="https://t.me/Silenthrax"),
-          InlineKeyboardButton("ＲＥＰＯ", url="https://t.me/BESTIE_UNITE_CLUB"),
+          InlineKeyboardButton("ＨＥＬＰ", url="https://t.me/crush_hu_tera"),
+          InlineKeyboardButton("ＲＥＰＯ", url="https://t.me/crush_hu_tera"),
           ],
                [
-                InlineKeyboardButton(" ＮＥＴＷＯＲＫ", url=f"https://t.me/silenthrex"),
+                InlineKeyboardButton(" ＮＥＴＷＯＲＫ", url=f"https://t.me/crush_hu_tera"),
 ],
 [
 InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/RJ_92_MUSIC_BOT"),
