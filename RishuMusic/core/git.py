@@ -1,5 +1,6 @@
 import asyncio
 import shlex
+import os
 from typing import Tuple
 
 from git import Repo
@@ -30,6 +31,11 @@ def install_req(cmd: str) -> Tuple[str, str, int, int]:
 
 
 def git():
+    # Skip if running on Heroku
+    if "DYNO" in os.environ:
+        LOGGER(__name__).info("⚠️ Skipping Git auto-updater on Heroku")
+        return
+
     REPO_LINK = config.UPSTREAM_REPO
     if config.GIT_TOKEN:
         GIT_USERNAME = REPO_LINK.split("com/")[1].split("/")[0]
