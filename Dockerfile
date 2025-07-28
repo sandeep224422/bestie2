@@ -1,13 +1,20 @@
-FROM nikolaik/python-nodejs:python3.10-nodejs19
+FROM python:3.10-slim
 
+# Install dependencies
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends ffmpeg \
-    && apt-get clean \
-    && rm -rf /var/lib/apt/lists/*
+ && apt-get install -y --no-install-recommends curl ffmpeg gnupg ca-certificates \
+ && curl -fsSL https://deb.nodesource.com/setup_19.x | bash - \
+ && apt-get install -y nodejs \
+ && apt-get clean \
+ && rm -rf /var/lib/apt/lists/*
 
+# Copy code
 COPY . /app/
 WORKDIR /app/
-RUN python -m pip install --no-cache-dir --upgrade pip
-RUN pip3 install --no-cache-dir --upgrade --requirement requirements.txt
 
-CMD bash start
+# Install Python deps
+RUN python -m pip install --no-cache-dir --upgrade pip
+RUN pip install --no-cache-dir --upgrade -r requirements.txt
+
+# Start command
+CMD ["bash", "start"]
