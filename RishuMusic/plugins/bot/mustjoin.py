@@ -6,7 +6,7 @@ from RishuMusic import app
 
 # Channels to enforce join
 MUST_JOIN_1 = "bots_update_all"
-MUST_JOIN_2 = "bots_update_all"
+MUST_JOIN_2 = "about_zefron"
 
 # List of random images
 IMAGES = [
@@ -73,13 +73,13 @@ async def must_join_channels(app: Client, msg: Message):
             await app.get_chat_member(MUST_JOIN_1, msg.from_user.id)
         except UserNotParticipant:
             link1 = f"https://t.me/{MUST_JOIN_1}"
-            await send_join_message(msg, link1, "crush_hu_tera")
+            await send_join_message(msg, link1, "bots_update_all")
 
         try:
             await app.get_chat_member(MUST_JOIN_2, msg.from_user.id)
         except UserNotParticipant:
             link2 = f"https://t.me/{MUST_JOIN_2}"
-            await send_join_message(msg, link2, "crush_hu_tera")
+            await send_join_message(msg, link2, "about_zefron")
 
     except ChatAdminRequired:
         print("Please make me admin in the required channels!")
