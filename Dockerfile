@@ -1,4 +1,5 @@
-FROM python:3.10-slim
+# Use a stable base (Debian bookworm)
+FROM python:3.10-slim-bookworm
 
 # Install system dependencies (including git)
 RUN apt-get update \
